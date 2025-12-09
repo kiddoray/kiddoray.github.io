@@ -1,1 +1,1 @@
-This is the source code to Kiddoray's public academic website.
+This is the source code to Kiddoray's public academic website. https://kiddoray.github.io/
